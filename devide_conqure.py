@@ -20,4 +20,9 @@ def find_element(arr,target,index=0):
 		return find_element(arr[:mid_ind],target,index)
 
 
+
+def merge_sort(arr):
+	
+
+
 print(find_element(arr,30))
